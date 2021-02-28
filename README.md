@@ -10,6 +10,10 @@ June![June Data](https://github.com/FatimaJHussain/surfs_up./blob/main/June.png)
 ## Deliverable 2: It is consists of Statistics  about month of December.
 Figure-2: 
 December![December Data](https://github.com/FatimaJHussain/surfs_up./blob/main/Dec.png)
-
+## Analysis of Temperatures for June and December
+There is not much of the difference in temperatures for the both months.
+* Maximum temperature in December is 83 and in June is 85, which is quiet similar. 
+* Minumum tepmeratures in December is 56 and in June is 64. We see more contrast in minimum temperatures for two months. 
+* Average temperatures in December and June are 71 and 74, respectively and there is not much of the difference bewteen both the months. 
 
 # Summary
